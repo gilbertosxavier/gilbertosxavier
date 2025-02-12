@@ -1,41 +1,57 @@
-<h1 align="left">Hi! I'am Gilberto Xavier ✌️</h1>
+<h2 align="left">About me</h2>
 
-- 📡 I’m currently working as a Infrastructure Technician;
-- 🌱 I’m currently learning front-end development;
-- 💻 Study Platforms: RocketSeat, OnebiteCode and Udemy;
-- 💬 Ask me about anything;
+###
 
-<br><br>
+<p align="left">- Front-end Developer<br>- Member and content creator on the podcast @resenhadosimortais</p>
 
-## 👨🏻‍💻 &nbsp;Technologies
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SASS](https://img.shields.io/badge/-sass-05122A?style=flat&logo=sass) &nbsp;
-![BOOTSTRAP](https://img.shields.io/badge/-bootstrap-05122A?style=flat&logo=bootstrap) &nbsp;
-![BEM](https://img.shields.io/badge/-BEM-05122A?style=flat&logo=BEM) &nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-<br><br>
+###
 
-## 📱 &nbsp;Social
+<h2 align="left">Stats</h2>
 
-<p align="left">
-<a href="https://codepen.io/gilbertosxavier" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gilbertosxavier-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://www.linkedin.com/in/gilbertosxavier" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-gilbertosxavier-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="https://www.instagram.com/gilbertosxavier/" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-gilbertosxavier-05122A?style=flat&logo=instagram" alt="instagram"/>
-  
+###
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=gilbertosxavier&radius=16&theme=react&area=true&order=5&hide_title=false&hide_border=false" height="300" alt="activity-graph graph"  />
+</div>
 
+###
 
+<h2 align="left">Techs</h2>
 
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vite" height="40" alt="vite logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+</div>
+
+###
+
+<h2 align="left">Social Media</h2>
+
+###
+
+<div align="left">
+  <a href="https://www.linkedin.com/in/gilbertosx/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://www.instagram.com/ogilbertosx" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
+  </a>
+</div>
+
+###
 <!--
 **gilbertoxavier/gilbertoxavier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
