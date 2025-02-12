@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">- Front-end Developer<br>- Member and content creator on the podcast @resenhadosimortais</p>
+<p align="left">- Trying to keep up with the constant evolution of technology;<br>- Currently studying Systems Analysis and Development;<br>- Member and content creator on the podcast @resenhadosimortais;</p>
 
 ###
 
